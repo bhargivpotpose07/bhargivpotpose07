@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Bhargiv 👋
 
-<!--
-**bhargivpotpose07/bhargivpotpose07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Data Science Student  
+📍 Mumbai, India  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a Data Science student with hands-on experience in data analysis, machine learning, and computer vision. I have worked on real-world projects involving predictive modeling, data visualization, and AI-based applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Basic)
+- Power BI, Tableau
+- Excel (Pivot Tables, Charts)
+- Machine Learning, EDA
+
+## 📊 Projects
+- 🔹 Loan Risk Prediction System
+- 🔹 F1 Race Outcome Predictor
+- 🔹 AI Smartboard using OpenCV & MediaPipe
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/bhargiv-potpose-82b502366/
+- Email: bhargivpotpose10@gmail.com
